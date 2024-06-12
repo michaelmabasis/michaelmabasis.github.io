@@ -1,0 +1,4 @@
+OWNERDOMAIN=google.com
+rubiconproject.com, 18138, RESELLER
+rubiconproject.com, 21784, DIRECT
+rubiconproject.com, 20452, UNKNOWN
